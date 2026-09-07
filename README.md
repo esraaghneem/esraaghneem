@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Esraa Ghneem 👋
 
-<!--
-**esraaghneem/esraaghneem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Laravel & PHP
 
-Here are some ideas to get you started:
+I'm a Backend Developer passionate about building reliable and scalable web applications and RESTful APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+* PHP
+* Laravel
+* MySQL
+* REST APIs
+* Git & GitHub
+* JavaScript
+* React.js
+* TypeScript
+
+### 🚀 Featured Projects
+
+* **Hotel Management System** — Integrated hotel management platform built with Laravel and MySQL.
+* **Charity Management Application** — A platform designed to support charitable activities and manage donations and beneficiaries.
+* **Compiler Project** — Web compiler project using ANTLR and Java.
+* **E-Commerce Platform** — Full-stack e-commerce application.
+
+### 📫 Connect with Me
+
+* [LinkedIn](https://www.linkedin.com/in/esraa-ghneem-8b4839401/)
+* [Portfolio](https://esraaghneem.github.io/My-Portfolio)
